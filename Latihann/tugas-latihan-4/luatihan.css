@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black; /* Border luar tabel */
+}
+
+tr {
+    background-color: lightcoral; /* Warna latar belakang untuk semua baris */
+}
+
+td {
+    height: 50px; /* Tinggi untuk semua sel */
+    size: 10px;
+    border: 1px dashed blue; /* Border untuk semua sel */
+}
